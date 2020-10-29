@@ -61,7 +61,7 @@
         {
             "slug": "02-pipenv-installation",
             "title": "02-pipenv-installation",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/02-pipenv-installation",
             "translations": [
                 "es",
