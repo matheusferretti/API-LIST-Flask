@@ -149,7 +149,7 @@
         {
             "slug": "06-check-for-live",
             "title": "06-check-for-live",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/06-check-for-live",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "07-post_todo",
             "title": "07-post_todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07-post_todo",
             "translations": [
                 "es",
