@@ -72,7 +72,7 @@
         {
             "slug": "02.1-flask-installation",
             "title": "02.1-flask-installation",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/02.1-flask-installation",
             "translations": [
                 "es",
@@ -83,7 +83,7 @@
         {
             "slug": "03-first-flask-app",
             "title": "03-first-flask-app",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03-first-flask-app",
             "translations": [
                 "es",
