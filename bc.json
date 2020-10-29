@@ -138,7 +138,7 @@
         {
             "slug": "05-returning-json",
             "title": "05-returning-json",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/05-returning-json",
             "translations": [
                 "es",
