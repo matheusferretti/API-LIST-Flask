@@ -94,7 +94,7 @@
         {
             "slug": "03.1-app-run",
             "title": "03.1-app-run",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.1-app-run",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "03.3-your-first-route",
             "title": "03.3-your-first-route",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.3-your-first-route",
             "translations": [
                 "es",
