@@ -193,7 +193,7 @@
         {
             "slug": "08-delete-todo",
             "title": "08-delete-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08-delete-todo",
             "translations": [
                 "es",
