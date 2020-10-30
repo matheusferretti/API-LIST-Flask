@@ -204,7 +204,7 @@
         {
             "slug": "08.1-delete-live-test",
             "title": "08.1-delete-live-test",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.1-delete-live-test",
             "translations": [
                 "es",
