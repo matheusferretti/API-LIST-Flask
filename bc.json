@@ -182,7 +182,7 @@
         {
             "slug": "07.2-finish-post-todo",
             "title": "07.2-finish-post-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07.2-finish-post-todo",
             "translations": [
                 "es",

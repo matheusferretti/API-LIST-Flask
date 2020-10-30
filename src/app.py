@@ -17,7 +17,7 @@ def add_new_todo():
     request_body = json.loads(request.data)
     todos.append(request_body)
     print("Incoming request with the following body", request_body)
-    return 'Response for the POST todo'
+    return jsonify(todos), 200
 
 
 if __name__ == '__main__':
