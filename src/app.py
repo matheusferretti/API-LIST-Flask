@@ -6,6 +6,10 @@ todos = [
     { "label": "My second task", "done": False }
 ]
 
+@app.route('/blabla', methods=['GET'])
+def hello_world():
+    return 'Hello, World!'
+
 @app.route('/todos', methods=['POST'])
 def add_new_todo():
     request_body = request.data
